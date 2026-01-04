@@ -18,3 +18,7 @@ response = client.chat.completions.create(
 )
 
 print(response.model_dump_json(indent=2))
+
+
+
+j
